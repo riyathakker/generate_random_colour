@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+background-color: antiquewhite;
+    justify-content: center;
+}
+div{
+    height:100px;
+    width:500px;
+    border: 1px solid black;
+    margin: auto;
+}
+button{
+    height: 45px;
+    border: black;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50%;
+}
